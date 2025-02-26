@@ -1,0 +1,4 @@
+.venv
+uploads/
+backend/uploads/
+frontend/node_modules/
